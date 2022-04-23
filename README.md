@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 - 👯 I’m currently learning .Net Core.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/oguzk17)
-<i class='fab fa-linkedin fa-2x'>fa-2x</i><br/>
