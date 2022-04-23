@@ -1,7 +1,5 @@
 ### Hi there I'm Oğuzhan  👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Full-Stack Developer.
 - 🌱 I’m a computer Engineer .
 - 👯 I’m currently learning .Net Core.
