@@ -5,4 +5,4 @@
 - 👯 I’m currently learning .Net Core.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/oguzk17)
-<i class="fa-brands fa-linkedin"></i>
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/oguzhan-kuscu/]
