@@ -5,3 +5,4 @@
 - 👯 I’m currently learning .Net Core.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/oguzk17)
+<i class="fa-brands fa-linkedin"></i>
