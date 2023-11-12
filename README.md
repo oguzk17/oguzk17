@@ -11,8 +11,4 @@
 
 
 <br />
-
-
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[gmail]: mailto:demiribrahimtalha@gmail.com
 <br />
